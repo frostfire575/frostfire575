@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/frostfire575/count.svg" />
+</p>
+
 # 👨‍💻 About Me:
 🔭 I’m currently working on [**Onex Scripts**](https://onexscripts.tebex.io/) and I am a **Full-Stack Developer** with expertise in creating dynamic and responsive web applications. I specialize in **frontend UI/UX design** using modern libraries and frameworks like **React** and **Next.js**, while ensuring robust **backend functionality** using technologies such as **Node.js**, **C#**, and **Lua**. 
 
