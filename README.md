@@ -4,15 +4,17 @@
 </p>
 
 
-# 👨‍💻 About Me:
+# **ABOUT ME**
+
 🔭 I’m currently working on [**Onex Scripts**](https://onexscripts.tebex.io/) and I am a **Full-Stack Developer** with expertise in creating dynamic and responsive web applications. I specialize in **frontend UI/UX design** using modern libraries and frameworks like **React** and **Next.js**, while ensuring robust **backend functionality** using technologies such as **Node.js**, **C#**, and **Lua**. 
 
 I have a strong foundation in databases like **MySQL**, **MongoDB**, and **MariaDB**, paired with extensive experience in **server configuration** using tools like **Nginx**. My passion lies in combining clean, efficient code with visually appealing design to deliver seamless user experiences.
 
-## 🌐 Socials:
+## 🌐 〢 SOCIALS
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sF32RVBwTD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@onexofficial) 
 
-# 💻 Tech Stack:
+## ⚒️ 〢 TECH STACK
 
 ### 🖥️ Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -46,18 +48,14 @@ I have a strong foundation in databases like **MySQL**, **MongoDB**, and **Maria
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
----
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=frostfire575&theme=solarized-dark&hide_border=false)<br/>
-
----
+![](https://github-readme-stats.vercel.app/api?username=frostfire575&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=frostfire575&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
----
-
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=frostfire575&limit=5&theme=algolia&combine_all_yearly_contributions=true)
